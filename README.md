@@ -1,5 +1,4 @@
 # README #
-This README would normally document whatever steps are necessary to get your application up and running.
 
 ### What is this repository for? ###
 **Reqnroll** Project is an automated testing framework designed to streamline **API** and **UI** test execution using **SpecFlow**, **Selenium**, and **RestSharp**. It enables **BDD (Behavior-Driven Development)** by integrating with Gherkin syntax, allowing testers and developers to write human-readable test scenarios.
@@ -74,8 +73,8 @@ To execute the project, open Test Explorer
 Right Click on desire test case and click on Run
 
 ## 📌 Prepared By ##
-* 👤 Name: Muhammad Waqar Tufail
-* 📧 Email: samar4250@gmail.com
-* 📞 Phone: (+92) 334-360 9679
-* 🔗 LinkedIn: waqar-tufail-a4bb90a8
+**👤 Name: Muhammad Waqar Tufail**\
+**📧 Email: samar4250@gmail.com**\
+**📞 Phone: (+92) 334-360 9679**\
+**🔗 LinkedIn: waqar-tufail-a4bb90a8**
 
