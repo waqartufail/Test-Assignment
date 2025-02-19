@@ -1,0 +1,28 @@
+﻿{
+    "TestData": {
+        "QA": {
+            "UserName": "John Doe",
+            "Password": "ThisIsNotAPassword"
+        },
+        "UAT": {
+            "UserName": "John Doe",
+            "Password": "ThisIsNotAPassword"
+        },
+        "Production": {
+            "UserName": "John Doe",
+            "Password": "ThisIsNotAPassword"
+        }
+    },
+    "Elements": {
+        "LoginHeading": "XPATH_LOGIN_HEADING",
+        "UserNameTextbox": "XPATH_USER_NAME",
+        "PasswordTextbox": "XPATH_PASSWORD",
+        "Login": "XPATH_LOGIN",
+        "Product": "XPATH_PRODUCT",
+        "Error": "XPATH_ERROR"
+    },
+    "ExpectedData": {
+        "LoginHeading": "Login",
+        "Error": "Login failed! Please ensure the username and password are valid."
+    }
+}

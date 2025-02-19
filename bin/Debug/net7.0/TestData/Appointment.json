@@ -1,0 +1,46 @@
+﻿{
+    "TestData": {
+        "QA": {
+            "Tokyo": "Tokyo CURA Healthcare Center",
+            "Hongkong": "Hongkong CURA Healthcare Center",
+            "Seoul": "Seoul CURA Healthcare Center",
+            "Comments": "SpecFlow has been deprecated in favor of Reqnroll. In late 2024"
+        },
+        "UAT": {
+            "Tokyo": "Tokyo CURA Healthcare Center",
+            "Hongkong": "Hongkong CURA Healthcare Center",
+            "Seoul": "Seoul CURA Healthcare Center",
+            "Comments": "SpecFlow has been deprecated in favor of Reqnroll. In late 2024"
+        },
+        "Production": {
+            "Tokyo": "Tokyo CURA Healthcare Center",
+            "Hongkong": "Hongkong CURA Healthcare Center",
+            "Seoul": "Seoul CURA Healthcare Center",
+            "Comments": "SpecFlow has been deprecated in favor of Reqnroll. In late 2024"
+        }
+    },
+    "Elements": {
+        "AppointmentHeading": "XPATH_APPOINTMENT_HEADING",
+        "Facility": "XPATH_FACILITY",
+        "HospitalAdmission": "XPATH_HOSPITAL_ADMISSION\"\"",
+        "Medicare": "XPATH_MEDICINE",
+        "MedicAid": "XPATH_MEDICAID",
+        "None": "XPATH_NONE",
+        "VisitDate": "XPATH_VISIT_DATE",
+        "Comments": "XPATH_COMMENTS",
+        "BookAppointment": "XPATH_BOOK_APPOINTMENT",
+        "AppointmentConfirmation": "XPATH_APPOINTMENT_CONFIRMATION",
+        "LeftMenu": "XPATH_MENU",
+        "History": "XPATH_HISTORY",
+        "SubmittedTokyoFacility": "XPATH_SUBMITTED_FACILITY",
+        "SubmittedHongkongFacility": "XPATH_SUBMITTED_FACILITY",
+        "SubmittedSeoulFacility": "XPATH_SUBMITTED_FACILITY"
+    },
+    "ExpectedData": {
+        "AppointmentHeading": "Make Appointment",
+        "AppointmentConfirmation": "Appointment Confirmation",
+        "SubmittedTokyoFacility": "Tokyo CURA Healthcare Center",
+        "SubmittedHongkongFacility": "Hongkong CURA Healthcare Center",
+        "SubmittedSeoulFacility": "Seoul CURA Healthcare Center"
+    }
+}

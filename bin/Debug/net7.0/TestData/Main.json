@@ -1,0 +1,6 @@
+﻿{
+    "Elements": {
+        "Menu": "XPATH_MENU",
+        "Login": "XPATH_LOGIN"
+    }
+}
